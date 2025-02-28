@@ -1,0 +1,77 @@
+[
+	{
+		"id": 1,
+		"title":"Viragbolt",
+		"photo_url":"...",
+		"repo-link":"https://github.com/pxedq/Viragbolt",
+      	"topics": [
+          	"fetch API",
+          	"Set adatszerkezet",
+          	"Array.from()",
+          	"radió gombok használata",
+          	"checkboxok használata",
+          	"select használata"
+		],
+		"site-link":"https://pxedq.github.io/Viragbolt/"
+    },
+	{
+		"id": 2,
+		"title":"fetchAPI",
+		"photo_url":"...",
+		"repo-link":"https://github.com/pxedq/fetchAPI",
+      	"topics": [
+          	"fetch API",
+          	"Set adatszerkezet",
+          	"Array.from()",
+          	"radió gombok használata",
+          	"checkboxok használata",
+          	"select használata"
+		],
+		"site-link":"https://pxedq.github.io/fetchAPI/"
+    },
+	{
+		"id": 3,
+		"title":"Csengetés",
+		"photo_url":"...",
+		"repo-link":"https://github.com/pxedq/Csengetes",
+      	"topics": [
+          	"fetch API",
+          	"Set adatszerkezet",
+          	"Array.from()",
+          	"radió gombok használata",
+          	"checkboxok használata",
+          	"select használata"
+		],
+		"site-link":"https://pxedq.github.io/Csengetes/"
+    },
+	{
+		"id": 4,
+		"title":"BMI",
+		"photo_url":"...",
+		"repo-link":"https://github.com/pxedq/BMI",
+      	"topics": [
+          	"fetch API",
+          	"Set adatszerkezet",
+          	"Array.from()",
+          	"radió gombok használata",
+          	"checkboxok használata",
+          	"select használata"
+		],
+		"site-link":"https://pxedq.github.io/BMI/"
+    },
+    {
+		"id": 4,
+		"title":"bolygok",
+		"photo_url":"...",
+		"repo-link":"https://github.com/pxedq/bolygok",
+      	"topics": [
+          	"fetch API",
+          	"Set adatszerkezet",
+          	"Array.from()",
+          	"radió gombok használata",
+          	"checkboxok használata",
+          	"select használata"
+		],
+		"site-link":"https://pxedq.github.io/bolygok/"
+    }
+]
