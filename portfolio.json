@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"title":"Viragbolt",
-		"photo_url":"...",
+		"photo_url":"https://res.cloudinary.com/dfrvm8ybh/image/upload/v1741938739/Viragbolt_gxt9h6.png",
 		"repo-link":"https://github.com/pxedq/Viragbolt",
       	"topics": [
           	"fetch API",
@@ -60,7 +60,7 @@
 		"site-link":"https://pxedq.github.io/BMI/"
     },
     {
-		"id": 5,
+		"id": 4,
 		"title":"bolygok",
 		"photo_url":"...",
 		"repo-link":"https://github.com/pxedq/bolygok",
