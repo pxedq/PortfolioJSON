@@ -3,7 +3,7 @@
 		"id": 1,
 		"title":"Viragbolt",
 		"photo_url":"https://res.cloudinary.com/dfrvm8ybh/image/upload/v1741938739/Viragbolt_gxt9h6.png",
-		"repo-link":"https://github.com/pxedq/Viragbolt",
+		"repo_link":"https://github.com/pxedq/Viragbolt",
       	"topics": [
           	"fetch API",
           	"Set adatszerkezet",
@@ -12,13 +12,13 @@
           	"checkboxok használata",
           	"select használata"
 		],
-		"site-link":"https://pxedq.github.io/Viragbolt/"
+		"site_link":"https://pxedq.github.io/Viragbolt/"
     },
 	{
 		"id": 2,
 		"title":"Users-Page",
 		"photo_url":"https://res.cloudinary.com/dfrvm8ybh/image/upload/v1742813055/UsersPage_odggyb.png",
-		"repo-link":"https://github.com/pxedq/UsersPage",
+		"repo_link":"https://github.com/pxedq/UsersPage",
       	"topics": [
           	"fetch API",
           	"Set adatszerkezet",
@@ -27,13 +27,13 @@
           	"checkboxok használata",
           	"select használata"
 		],
-		"site-link":"https://pxedq.github.io/UsersPage/"
+		"site_link":"https://pxedq.github.io/UsersPage/"
     },
 	{
 		"id": 3,
 		"title":"Flexboxok használata",
 		"photo_url":"https://res.cloudinary.com/dfrvm8ybh/image/upload/v1742813055/FlexboxHasznalata_org9el.png",
-		"repo-link":"https://github.com/pxedq/FlexboxHasznalata",
+		"repo_link":"https://github.com/pxedq/FlexboxHasznalata",
       	"topics": [
           	"flexbox használata",
           	"flex-direction",
@@ -42,13 +42,13 @@
           	"align-content",
           	"flex-wrap"
 		],
-		"site-link":"https://pxedq.github.io/FlexboxHasznalata/"
+		"site_link":"https://pxedq.github.io/FlexboxHasznalata/"
     },
 	{
 		"id": 4,
 		"title":"BMI Calculator",
 		"photo_url":"https://res.cloudinary.com/dfrvm8ybh/image/upload/v1742813055/BMICalc_a5jpzi.png",
-		"repo-link":"https://github.com/pxedq/BMI",
+		"repo_link":"https://github.com/pxedq/BMI",
       	"topics": [
           	"fetch API",
           	"Set adatszerkezet",
@@ -57,13 +57,13 @@
           	"checkboxok használata",
           	"select használata"
 		],
-		"site-link":"https://pxedq.github.io/BMI/"
+		"site_link":"https://pxedq.github.io/BMI/"
     },
     {
 		"id": 4,
 		"title":"Free photos",
 		"photo_url":"https://res.cloudinary.com/dfrvm8ybh/image/upload/v1742813056/FreePhotos_kdbjk6.png",
-		"repo-link":"https://github.com/pxedq/FreePhotos",
+		"repo_link":"https://github.com/pxedq/FreePhotos",
       	"topics": [
           	"fetch API",
           	"Set adatszerkezet",
@@ -72,6 +72,6 @@
           	"checkboxok használata",
           	"select használata"
 		],
-		"site-link":"https://pxedq.github.io/FreePhotos/"
+		"site_link":"https://pxedq.github.io/FreePhotos/"
     }
 ]
